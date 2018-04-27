@@ -1,0 +1,12 @@
+baseURL = "http://www.relaxanddine.com/"
+languageCode = "en-us"
+title = "relax+dine"
+theme = "robust"
+
+paginate = 3
+paginatePath = "page"
+
+[params.author]
+    # thumbnail = "images/author.jpg"
+    # name = "Will Normand"
+	description = "a collection of recipes"

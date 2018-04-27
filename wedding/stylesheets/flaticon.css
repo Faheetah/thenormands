@@ -1,0 +1,316 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("/fonts/flaticon.eot");
+	src: url("/fonts/flaticon.eot#iefix") format("embedded-opentype"),
+	url("/fonts/flaticon.woff") format("woff"),
+	url("/fonts/flaticon.ttf") format("truetype"),
+	url("/fonts/flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {
+	font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}.flaticon-accesory3:before {
+	content: "\e000";
+}
+.flaticon-accesory4:before {
+	content: "\e001";
+}
+.flaticon-accessory11:before {
+	content: "\e002";
+}
+.flaticon-accessory12:before {
+	content: "\e003";
+}
+.flaticon-accessory13:before {
+	content: "\e004";
+}
+.flaticon-accessory14:before {
+	content: "\e005";
+}
+.flaticon-accessory15:before {
+	content: "\e006";
+}
+.flaticon-animal266:before {
+	content: "\e007";
+}
+.flaticon-baby11:before {
+	content: "\e008";
+}
+.flaticon-bells13:before {
+	content: "\e009";
+}
+.flaticon-book310:before {
+	content: "\e00a";
+}
+.flaticon-bottle60:before {
+	content: "\e00b";
+}
+.flaticon-bottles19:before {
+	content: "\e00c";
+}
+.flaticon-bow16:before {
+	content: "\e00d";
+}
+.flaticon-cakes7:before {
+	content: "\e00e";
+}
+.flaticon-calendars18:before {
+	content: "\e00f";
+}
+.flaticon-cameras15:before {
+	content: "\e010";
+}
+.flaticon-cameras16:before {
+	content: "\e011";
+}
+.flaticon-celebration21:before {
+	content: "\e012";
+}
+.flaticon-cellphone115:before {
+	content: "\e013";
+}
+.flaticon-christmas-present:before {
+	content: "\e014";
+}
+.flaticon-clothing126:before {
+	content: "\e015";
+}
+.flaticon-clothing127:before {
+	content: "\e016";
+}
+.flaticon-clothing128:before {
+	content: "\e017";
+}
+.flaticon-clothing129:before {
+	content: "\e018";
+}
+.flaticon-clothing130:before {
+	content: "\e019";
+}
+.flaticon-clothing131:before {
+	content: "\e01a";
+}
+.flaticon-cups19:before {
+	content: "\e01b";
+}
+.flaticon-cups20:before {
+	content: "\e01c";
+}
+.flaticon-dessert49:before {
+	content: "\e01d";
+}
+.flaticon-dinner2:before {
+	content: "\e01e";
+}
+.flaticon-dove:before {
+	content: "\e01f";
+}
+.flaticon-dresses19:before {
+	content: "\e020";
+}
+.flaticon-dresses20:before {
+	content: "\e021";
+}
+.flaticon-drinks51:before {
+	content: "\e022";
+}
+.flaticon-elegant31:before {
+	content: "\e023";
+}
+.flaticon-elegant32:before {
+	content: "\e024";
+}
+.flaticon-elegant33:before {
+	content: "\e025";
+}
+.flaticon-envelope85:before {
+	content: "\e026";
+}
+.flaticon-flower212:before {
+	content: "\e027";
+}
+.flaticon-flowers59:before {
+	content: "\e028";
+}
+.flaticon-flowers60:before {
+	content: "\e029";
+}
+.flaticon-flowers61:before {
+	content: "\e02a";
+}
+.flaticon-happy66:before {
+	content: "\e02b";
+}
+.flaticon-hat48:before {
+	content: "\e02c";
+}
+.flaticon-heart375:before {
+	content: "\e02d";
+}
+.flaticon-heart59:before {
+	content: "\e02e";
+}
+.flaticon-heart60:before {
+	content: "\e02f";
+}
+.flaticon-heart61:before {
+	content: "\e030";
+}
+.flaticon-heart62:before {
+	content: "\e031";
+}
+.flaticon-hearts56:before {
+	content: "\e032";
+}
+.flaticon-heart-shape12:before {
+	content: "\e033";
+}
+.flaticon-high-heels:before {
+	content: "\e034";
+}
+.flaticon-house261:before {
+	content: "\e035";
+}
+.flaticon-jewel11:before {
+	content: "\e036";
+}
+.flaticon-jewel12:before {
+	content: "\e037";
+}
+.flaticon-jewel13:before {
+	content: "\e038";
+}
+.flaticon-karaoke2:before {
+	content: "\e039";
+}
+.flaticon-keys27:before {
+	content: "\e03a";
+}
+.flaticon-knife56:before {
+	content: "\e03b";
+}
+.flaticon-light153:before {
+	content: "\e03c";
+}
+.flaticon-lips4:before {
+	content: "\e03d";
+}
+.flaticon-love151:before {
+	content: "\e03e";
+}
+.flaticon-loving23:before {
+	content: "\e03f";
+}
+.flaticon-man83:before {
+	content: "\e040";
+}
+.flaticon-man84:before {
+	content: "\e041";
+}
+.flaticon-man85:before {
+	content: "\e042";
+}
+.flaticon-mirrors9:before {
+	content: "\e043";
+}
+.flaticon-movie79:before {
+	content: "\e044";
+}
+.flaticon-musical175:before {
+	content: "\e045";
+}
+.flaticon-ornament11:before {
+	content: "\e046";
+}
+.flaticon-photographs:before {
+	content: "\e047";
+}
+.flaticon-picture86:before {
+	content: "\e048";
+}
+.flaticon-pictures29:before {
+	content: "\e049";
+}
+.flaticon-postal3:before {
+	content: "\e04a";
+}
+.flaticon-proposal1:before {
+	content: "\e04b";
+}
+.flaticon-quaver35:before {
+	content: "\e04c";
+}
+.flaticon-religion48:before {
+	content: "\e04d";
+}
+.flaticon-religion49:before {
+	content: "\e04e";
+}
+.flaticon-religion50:before {
+	content: "\e04f";
+}
+.flaticon-rings2:before {
+	content: "\e050";
+}
+.flaticon-rocket82:before {
+	content: "\e051";
+}
+.flaticon-romantic2:before {
+	content: "\e052";
+}
+.flaticon-sleep6:before {
+	content: "\e053";
+}
+.flaticon-spoon-1:before {
+	content: "\e054";
+}
+.flaticon-suitcase75:before {
+	content: "\e055";
+}
+.flaticon-sweet123:before {
+	content: "\e056";
+}
+.flaticon-tower-eiffel:before {
+	content: "\e057";
+}
+.flaticon-transport457:before {
+	content: "\e058";
+}
+.flaticon-transport458:before {
+	content: "\e059";
+}
+.flaticon-transport459:before {
+	content: "\e05a";
+}
+.flaticon-transport460:before {
+	content: "\e05b";
+}
+.flaticon-transport461:before {
+	content: "\e05c";
+}
+.flaticon-video-camera32:before {
+	content: "\e05d";
+}
+.flaticon-violin:before {
+	content: "\e05e";
+}
+.flaticon-wedding25:before {
+	content: "\e05f";
+}
+.flaticon-wedding26:before {
+	content: "\e060";
+}
+.flaticon-wedding27:before {
+	content: "\e061";
+}
+.flaticon-wedding28:before {
+	content: "\e062";
+}
+.flaticon-wedding29:before {
+	content: "\e063";
+}

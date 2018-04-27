@@ -1,0 +1,9 @@
+title: The Normands Blog
+description: >
+  Food blog for the Normand family
+url: "http://www.thenormands.com"
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
