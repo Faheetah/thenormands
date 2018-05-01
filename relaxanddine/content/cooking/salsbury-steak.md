@@ -6,6 +6,7 @@ tags:
 - american
 - beef
 thumbnail: images/salsbury-steak.jpg
+description: "This dish is a take on the classic school lunch, salsbury steak. Carmelized onions and sauteed mushrooms come together in a reduction."
 ---
 
 Ingredients
@@ -35,4 +36,4 @@ Once the onions are carmelized, dump into the jus and continue reducing. Use the
 
 Brown two 1/2 patties, thick, in the buttery pan. Brown on both sides then add to the jus.
 
-Once the meat reaches 160F in the center, remove and spoon the jus over the patties. Serve with a good green vegetable like sauteed chard and a good tempranillo or carmenere, or a wine with good stone fruit.
+Once the meat reaches 160F in the center, remove and spoon the jus over the patties. Serve with peas and carrots with a good mash. Pairs well with a good tempranillo or carmenere, or a wine with good stone fruit.

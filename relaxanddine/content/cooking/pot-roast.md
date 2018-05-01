@@ -6,6 +6,7 @@ tags:
 - american
 - beef
 thumbnail: images/pot-roast.jpg
+description: "This recipe starts out with a typical pot roast recipe, but builds a flavor-packed reduction. Served over sauteed cabbage leaves."
 ---
 
 Ingredients
@@ -39,6 +40,8 @@ Once the roast is falling apart and carrots are tender, pour a few cups of broth
 Savoy Cabbage
 ---
 
-<img src="/images/savoy-cabbage.jpg" style="width: 100%;" />
+{{% img src="images/savoy-cabbage.jpg" caption="roast the savoy cabbage in a cast iron pan" %}}
 
 While the sauce reduces, turn a cast iron pan to medium-high and add lard or bacon grease, olive oil will suffice. Peel the outer layers of the cabbage off and keep them moderately in tact, about 4-6 pieces. Slice the thick part of the stem off so they will lay flat in the pan, start with the concave side and press with a spatula until the brown from the other side shows through. Flip and cook the same amount of time to get a good brown color. Shred some more of the cabbage and sautee on high heat, getting a nice brown color, to act as a bed under the pot roast.
+
+Leftovers make a great base for shepherds pie or tacos.

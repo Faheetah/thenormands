@@ -1,11 +1,12 @@
 ---
+title: "Meatballs"
+date: 2018-04-23T22:00:34-05:00
 draft: false
 thumbnail: images/meatballs.jpg
+description: "A versitile recipe for meatballs. These meatballs freeze well and can be used with spaghetti sauce, Sweedish meatballs, Asian recipes, and more."
 tags:
 - italian
-date: 2018-04-23T22:00:34-05:00
-title: "Meatballs"
-description: "A versitile recipe for meatballs"
+- asian
 ---
 
 Ingredients
